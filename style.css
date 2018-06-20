@@ -12,13 +12,13 @@ header {
 
  #featured-property{
   text-align: center;
+  width: 800px;
 }
 
 nav {
   text-align: center;
   padding: 10px;
   background: grey; 
-  width: 800px;
 }
 
 figcaption {
