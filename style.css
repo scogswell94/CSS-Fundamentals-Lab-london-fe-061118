@@ -32,7 +32,8 @@ div [#details] {
 }
 
 #details {
-
+  display: block;
+  float: left;
   background: red;
   text-align: center;
 }
