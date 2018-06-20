@@ -33,4 +33,8 @@ figcaption {
   opacity: 25%;
 }
 
-
+section #details {
+  display: block;
+  float: left;
+  
+}
