@@ -27,7 +27,7 @@ figcaption {
 }
 
 #details {
-  display: block;
+  display: inline-blockblock;
   float: left;
   background: red;
   text-align: center;
