@@ -33,7 +33,7 @@ div [#details] {
 
 #details {
   display: block;
-  float: left;
+  float: center;
   background: red;
   text-align: center;
 }
