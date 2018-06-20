@@ -25,7 +25,9 @@ figcaption {
   font-size: 8px;
 }
 
-div [#details]  {
+div [#details] {
+  display: block;
+  float: left;
   width: 25%;
 }
 
