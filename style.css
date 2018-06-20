@@ -29,7 +29,7 @@ figcaption {
   display: block;
   float: left;
   background: red;
- 
+  text-align: center;
   width: 25%;
 }
 
