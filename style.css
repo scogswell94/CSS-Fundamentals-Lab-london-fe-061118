@@ -25,12 +25,16 @@ figcaption {
   font-size: 8px;
 }
 
+div {
+  width: 25%;
+}
+
 #details {
   display: block;
   float: left;
   background: red;
   text-align: center;
-  opacity: 25%;
+ 
 }
 
 section #details {
