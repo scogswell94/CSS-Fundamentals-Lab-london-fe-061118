@@ -11,9 +11,10 @@ header {
 
  #featured-property{
   text-align: center;
+  width: 800px;
 }
 
-a {
+ {
   text-align: center;
   padding: 10px;
   background: grey; 
@@ -21,7 +22,7 @@ a {
 
 figcaption {
   text-align: center;
-  font-size: 8px;
+  font-size: 70%;
 }
 
  div {
