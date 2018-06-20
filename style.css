@@ -33,8 +33,9 @@ div [#details] {
 
 #details {
   display: block;
-  float: right;
+  float: left;
   background: red;
   text-align: center;
+   width: 25%;
 }
 
