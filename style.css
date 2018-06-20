@@ -25,12 +25,9 @@ figcaption {
   font-size: 8px;
 }
 
-p {
-  width: 800px;
-}
 #details {
-  display: inline-blockblock;
-  float: left;
+  display: inline-block;
+
   background: red;
   text-align: center;
   opacity: 25%;
