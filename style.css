@@ -4,18 +4,19 @@ body {
   height: 100%;
   margin: 0;
 }
+
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  
 }
+
 header {
   text-align: center;
 }
 
- #featured-property >p{
+ #featured-property >p {
   text-align: center;
   width: 800px;
   margin-left: auto;
@@ -27,7 +28,6 @@ header {
   text-align: center;
   padding: 10px;
   background: grey; 
-  opacity: 1;
 }
 
 figcaption {
@@ -42,5 +42,4 @@ figcaption {
   text-align: center;
   width: 25%;
 }
-
 
