@@ -1,6 +1,6 @@
 
 body {
-
+  
   width: 100%;
   height: 100%;
   margin: 0;
@@ -28,5 +28,5 @@ figcaption {
 
 #details {
   display: block;
-  float:;
+  float: left;
 }
